@@ -31,36 +31,18 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🚀 Featured projects
-
-| Project | What it does | Stack | Links |
-|---|---|---|---|
-| **NoteSharing App** | _One-line description of what it does and who it's for_ | MERN | [Live](#) · [Code](#) |
-| **Project 2** | _Short description_ | _Stack_ | [Code](#) |
-
-## 🏗️ How I think about backend (architecture snapshot)
-
-```mermaid
-flowchart LR
-  Client --> API[Express API]
-  API --> Auth[JWT Auth]
-  API --> DB[(MongoDB)]
-  API --> Cache[(Redis cache)]
-```
-
-_Swap this for the real architecture of your best project — recruiters love seeing it._
 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sahill00&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahill00&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🐍 Contribution snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/sahill00/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ## 📫 Reach me
